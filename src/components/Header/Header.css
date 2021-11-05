@@ -1,0 +1,30 @@
+.container{
+  width: 100%;
+  height: 4rem;
+  padding: 0;
+  display: inline;
+  border: px black solid;
+
+}
+
+.header {
+  background-color: rgb(111, 175, 240);
+  box-shadow: 2px 2px 5px grey;
+  height: 4rem;
+  float: left;
+  width: 20%;
+}
+.header h1 {
+    align-items: center;
+    color: white;
+    text-align: center; 
+    font-family: Monospace;
+}
+.header-right{
+  background-color: rgb(241, 241, 160);
+  box-shadow: 3px 3px 5px grey;
+  height: 4rem;
+  width: 80%;
+  box-shadow: 1px;
+  float: right;
+}
